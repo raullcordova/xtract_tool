@@ -8,7 +8,7 @@ A simple terminal tool for extracting text from images and PDFs using OCR (Tesse
 - Clean and formatted text output
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/xtract.git`
+1. Clone the repository: `git clone https://github.com/raullcordova/xtract_tool.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the tool: `python xtract.py`
 
